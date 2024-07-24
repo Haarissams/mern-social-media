@@ -1,9 +1,7 @@
 {
-
-"rewrites":[
-    {
-        "source": "/(.*)",
-        "destination": "/"
-    }
-]
+  "build": {
+    "src": "src/index.js",
+    "output": "dist/server"
+  }
 }
+
