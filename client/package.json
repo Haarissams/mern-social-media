@@ -13,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "dotenv": "^16.0.3",
     "formik": "^2.2.9",
+    "npm": "^10.8.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.2.3",
@@ -46,5 +47,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
