@@ -1,7 +1,9 @@
 {
-  "build": {
-    "src": "src/index.js",
-    "output": "dist/server"
+  "env": {
+   MONGO_URL="mongodb+srv://techieboii4:BQhPFavz5Qkph3VE@cluster0.qazsa34.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+   PORT =3001
+   JWT_SECRET='somesuperhardstringtoguess'
+
   }
 }
 
